@@ -1,5 +1,6 @@
 🔐Password-Generator 
- HTML, CSS, JS
+
+Tech: HTML, CSS, JS
  
  
  
